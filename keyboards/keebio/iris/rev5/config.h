@@ -81,3 +81,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_EFFECT_TWINKLE
 #define RGBLIGHT_DEFAULT_VAL 128
 #define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_RAINBOW_SWIRL + 2)
+/*Endcoders*/
+#define ENCODERS_PAD_A { B12 }
+#define ENCODERS_PAD_B { B13 }
